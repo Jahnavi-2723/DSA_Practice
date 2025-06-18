@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream>   // preprocessor directive
 
-using namespace std;
+using namespace std;   // standard library
 
 int main(){
     int a,b;
@@ -11,3 +11,11 @@ int main(){
     cout<< "Sum:"<<(a+b)<<endl;
     return 0;
 }
+
+// Variables a=9, str="s"
+// Data types int, float, char, double, bool
+// Arthimetic operators [+, -, *, /, %]
+// Relational Operators [>, <, ==, <=, >=, !=]
+// Assignment operator "="
+// Logical Operators   [||, &&, !]
+// Unary Operators [ a++ (use and the update)  ++a(update and the use)]
