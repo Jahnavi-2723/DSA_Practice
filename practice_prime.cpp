@@ -2,18 +2,24 @@
 #include<cmath>
 using namespace std;
 
-
-int main(){
-    int num, count=0;
-    cout<<"Enter the number: ";
-    cin>>num;
-    for(int i=2;i<sqrt(num);i++){
+bool isPrime(int num){
+    for(int i=2;i<=sqrt(num);i++){
         if(num%i == 0){
-            cout<<i<<" is 1st factor of "<<num;
-            count=1;
-            break;
+            return 1;
         }
     }
-    (count==0)?(cout<<num<<"is a Prime number"):(cout<<num<<"is not a Prime Number");
+    return 0;
+}
+
+
+int main(){
+    int num;
+    bool count;
+    cout<<"Enter the number: ";
+    cin>>num;
+    for(int i=2; i<=num;i++){
+        count=isPrime(i);
+        if (!count)      cout<<i<<" ";
+    }
     return 0;
 }
