@@ -5,4 +5,7 @@
 # DAY-1
 - Today, i learnt how to preform input/output operations.
 - Variables, Operators in Cpp.
+- Loops, Conditional Statements
+- Functions
+- Patterns
   
