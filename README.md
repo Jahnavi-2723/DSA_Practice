@@ -8,4 +8,8 @@
 - Loops, Conditional Statements
 - Functions
 - Patterns
+# DAY-2
+- Bitwise Operators
+- Binary Number System(Binary to Decimal, Decimal to Binary)
+- Precedence, Assosivity, Data Type Modifiers
   
