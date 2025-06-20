@@ -12,4 +12,7 @@
 - Bitwise Operators
 - Binary Number System(Binary to Decimal, Decimal to Binary)
 - Precedence, Assosivity, Data Type Modifiers
+# DAY-3
+- Today, I learnt two algorithms called kandane's, Moore's algorithm.
+- Practiced some "BASIC+EASY+ARRAY" programs on leetcode
   
