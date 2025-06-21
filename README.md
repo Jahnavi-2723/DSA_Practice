@@ -15,4 +15,7 @@
 # DAY-3
 - Today, I learnt two algorithms called kandane's, Moore's algorithm.
 - Practiced some "BASIC+EASY+ARRAY" programs on leetcode
+# DAY-4
+- Pointers, Memory allocations, Array pointer, '&', '*'
+- 
   
