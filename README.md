@@ -17,5 +17,6 @@
 - Practiced some "BASIC+EASY+ARRAY" programs on leetcode
 # DAY-4
 - Pointers, Memory allocations, Array pointer, '&', '*'
-- 
+- Binary Search and problems on it
+
   
