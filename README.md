@@ -18,5 +18,8 @@
 # DAY-4
 - Pointers, Memory allocations, Array pointer, '&', '*'
 - Binary Search and problems on it
+# DAY-5
+- Practiced some Binary Search applications problems in Leetcode.
+- Learnt the flow of binary search and how to apply those.
 
   
