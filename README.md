@@ -24,5 +24,5 @@
 # DAY-6
 - Revised SORTING techniques -> Bubble sort, Selection Sort, Insertion Sort
 - Learnt DNF(Dutch National Flag) Algorithm.
--  
+-  Next Permutation, Merge sorted arrays
   
