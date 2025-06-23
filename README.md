@@ -21,5 +21,8 @@
 # DAY-5
 - Practiced some Binary Search applications problems in Leetcode.
 - Learnt the flow of binary search and how to apply those.
-
+# DAY-6
+- Revised SORTING techniques -> Bubble sort, Selection Sort, Insertion Sort
+- Learnt DNF(Dutch National Flag) Algorithm.
+-  
   
