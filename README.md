@@ -25,4 +25,7 @@
 - Revised SORTING techniques -> Bubble sort, Selection Sort, Insertion Sort
 - Learnt DNF(Dutch National Flag) Algorithm.
 -  Next Permutation, Merge sorted arrays
-  
+# DAY-7
+- Today, I learnt STL in C++.
+- which includes CONTAINERS, ITERATORS, FUNCTORS, ALGORITHMS.
+- In detail, i will add a .doc file of all containers in C++.
