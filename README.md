@@ -29,3 +29,8 @@
 - Today, I learnt STL in C++.
 - which includes CONTAINERS, ITERATORS, FUNCTORS, ALGORITHMS.
 - In detail, i will add a .doc file of all containers in C++.
+# DAY-8
+- Today, I learnt Strings concept.
+- difference between char array and string.
+- Leetcode problems include -> Reverse words in a string, Permutations, Remove all occurances, Valid palindrome.
+
