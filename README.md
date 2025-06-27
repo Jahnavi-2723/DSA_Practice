@@ -33,4 +33,7 @@
 - Today, I learnt Strings concept.
 - difference between char array and string.
 - Leetcode problems include -> Reverse words in a string, Permutations, Remove all occurances, Valid palindrome.
+# DAY-9
+- Today, I learnt String compression
+- Different math functions which are going to using DSA.
 
