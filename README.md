@@ -36,4 +36,4 @@
 # DAY-9
 - Today, I learnt String compression
 - Different math functions which are going to using DSA.
-
+- 2D Arrays, 2D Vectors and basic opeartions like Maximum row sum and so on.
