@@ -39,3 +39,5 @@
 - 2D Arrays, 2D Vectors and basic opeartions like Maximum row sum and so on.
 # DAY-10
 - Search in 2d matrix.
+# DAY-11
+- Spiral matrix, 2Sum(3 ways to solve), Find Missing & Repeating Values, Duplicate element using slow-fast pointer.
