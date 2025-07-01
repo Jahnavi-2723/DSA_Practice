@@ -41,3 +41,5 @@
 - Search in 2d matrix.
 # DAY-11
 - Spiral matrix, 2Sum(3 ways to solve), Find Missing & Repeating Values, Duplicate element using slow-fast pointer.
+# DAY-12
+- 3Sum(3 ways to solve), 4Sum(Optimized), Subarray sum wquals to k
