@@ -43,3 +43,7 @@
 - Spiral matrix, 2Sum(3 ways to solve), Find Missing & Repeating Values, Duplicate element using slow-fast pointer.
 # DAY-12
 - 3Sum(3 ways to solve), 4Sum(Optimized), Subarray sum wquals to k
+# DAY-13
+- practiced basics of strings programs in leetcode from striver sheet.
+# DAY-14
+- Continuing programs on strings.
