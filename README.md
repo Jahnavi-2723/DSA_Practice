@@ -50,3 +50,5 @@
 # DAY-15
 - Recursion, Recursion using backtracking method
 - Subsets, Subsets II, Permutations, Permutations II, Next Permutations, Permutation Sequence, nQueens I, nQueens II
+# DAY-16
+-Sudoko Solver, Merge Intervals, Majority element III
