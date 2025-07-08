@@ -52,3 +52,5 @@
 - Subsets, Subsets II, Permutations, Permutations II, Next Permutations, Permutation Sequence, nQueens I, nQueens II
 # DAY-16
 -Sudoko Solver, Merge Intervals, Majority element III
+# DAY-17
+- Rat in a maze, Combinations - 0, I, II, Palindrome Partitioning.
