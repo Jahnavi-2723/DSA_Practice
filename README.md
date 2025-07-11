@@ -55,4 +55,4 @@
 # DAY-17
 - Rat in a maze, Combinations - 0, I, II, Palindrome Partitioning.
 # DAY-18
-- Merge sort, quick sort, count Inversions
+- Merge sort, quick sort, count Inversions, Knights tour
