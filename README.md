@@ -56,3 +56,5 @@
 - Rat in a maze, Combinations - 0, I, II, Palindrome Partitioning.
 # DAY-18
 - Merge sort, quick sort, count Inversions, Knights tour
+# DAY-19
+- OOPs concept, programs on backtracking and recursion
