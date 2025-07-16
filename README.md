@@ -60,3 +60,5 @@
 - OOPs concept, programs on backtracking and recursion
 # DAY-20
 - Programs on backtracking & Recursion, Introduction to LinkedList.
+# DAY-21
+- programs on linkedList 
