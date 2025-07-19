@@ -64,3 +64,5 @@
 - programs on linkedList 
 # DAY-22
 - Introduction to Doubly Linked List and programs on DLL in GFGs
+# DAY-23
+- practiced Medium range programs on DLL in GFGs
