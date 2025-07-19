@@ -62,3 +62,5 @@
 - Programs on backtracking & Recursion, Introduction to LinkedList.
 # DAY-21
 - programs on linkedList 
+# DAY-22
+- Introduction to Doubly Linked List and programs on DLL in GFGs
