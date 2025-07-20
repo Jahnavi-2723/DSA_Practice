@@ -66,3 +66,6 @@
 - Introduction to Doubly Linked List and programs on DLL in GFGs
 # DAY-23
 - practiced Medium range programs on DLL in GFGs
+# DAY-24
+- Learnt Circular Linked List
+- Practiced Hard Level programs of Linked List in LeetCode
