@@ -69,3 +69,6 @@
 # DAY-24
 - Learnt Circular Linked List
 - Practiced Hard Level programs of Linked List in LeetCode
+# DAY-25
+- Started Journey with Stacks
+- Practiced few problems on Stacks.
