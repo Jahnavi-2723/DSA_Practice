@@ -72,3 +72,5 @@
 # DAY-25
 - Started Journey with Stacks
 - Practiced few problems on Stacks.
+# DAY-26
+- MAx area in histogram(hard), Next Greater element II
