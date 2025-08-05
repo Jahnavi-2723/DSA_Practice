@@ -78,3 +78,5 @@
 - LRU cache problem and celebrity problem.
 # DAY-28
 - Queue and Deque
+# DAT-29
+- Trapping rain water(using binary search), intersection of arrays I and II
