@@ -78,5 +78,7 @@
 - LRU cache problem and celebrity problem.
 # DAY-28
 - Queue and Deque
-# DAT-29
+# DAY-29
 - Trapping rain water(using binary search), intersection of arrays I and II
+# DAY-30
+- remove k digits, sum of range of subArray --> Stacks
