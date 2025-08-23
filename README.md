@@ -82,3 +82,5 @@
 - Trapping rain water(using binary search), intersection of arrays I and II
 # DAY-30
 - remove k digits, sum of range of subArray --> Stacks
+# DAY-31
+- Bit manipulation concept and easy problems
